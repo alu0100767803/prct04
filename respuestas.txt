@@ -7,3 +7,8 @@ de Ruby en el mismo
 ¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete
 de Ruby (ruby helloWorld.rb) y el intérprete interactivo del ejercicio anterior?
 Que el intérprete interactivo nos muestra el objeto nulo nil, mientras que el intérprete de Ruby no
+
+¿Cuales son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete
+interacivo y con PRY?
+Se diferencian en que con el interprete  interactivo se produce una salida unica de lo establecido dentro del 
+fichero .rb y con pry se puede interactuar con el programa y cambiar variables además añadir mas funciones etc.
