@@ -1,5 +1,9 @@
 Respuestas a las preguntas de la práctica 4
 
-Qué es rvm(Ruby Version Manager)?
+¿Qué es rvm(Ruby Version Manager)?
 Es una plataforma de software Unix diseñado para gestionar varias versiones 
-de Ruby en el mismo dispositivo
+de Ruby en el mismo 
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete
+de Ruby (ruby helloWorld.rb) y el intérprete interactivo del ejercicio anterior?
+Que el intérprete interactivo nos muestra el objeto nulo nil, mientras que el intérprete de Ruby no
