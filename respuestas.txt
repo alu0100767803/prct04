@@ -1,0 +1,5 @@
+Respuestas a las preguntas de la práctica 4
+
+Qué es rvm(Ruby Version Manager)?
+Es una plataforma de software Unix diseñado para gestionar varias versiones 
+de Ruby en el mismo dispositivo
